@@ -64,7 +64,7 @@ The Arduino-based obstacle avoiding smart robotic vacuum cleaner works by integr
 4. Power the robot and place it on the floor to start autonomous cleaning.
 
 ## Arduino Code
-> *(Attach or link your vacuum_cleaner.ino file here)*
+> [*(Attach or link your vacuum_cleaner.ino file here)*](https://github.com/ChaitanyaJenne/Arduino-Based-Obstacle-Avoiding-Smart-Robotic-Vacuum-Cleaner/blob/main/ARDUINO_OBSTACLE_AVOIDING_CAR.ino)
 
 ## Future Enhancements
 - Add Bluetooth or Wi-Fi for smartphone control  
