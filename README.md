@@ -55,7 +55,8 @@ The Arduino-based obstacle avoiding smart robotic vacuum cleaner works by integr
 - This loop enables fully autonomous operation without human input.
 
 ## Circuit Diagram
-> (Insert your circuit diagram image or link here)
+> (![WhatsApp Image 2025-08-05 at 22 48 28_2bc7d7c1](https://github.com/user-attachments/assets/92069780-e41d-496f-a8b6-4f4d381a6f56)
+)
 
 ## Setup Instructions
 1. Mount all components onto the robot chassis.  
